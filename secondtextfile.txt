@@ -1,1 +1,2 @@
-This is the second fie
+This is the second file with text
+And we have two lines in here. 
